@@ -1,6 +1,6 @@
 ## 🖐🏻Hi there!
 
-#### I'm a high school student who dreams of becoming a front-end developer.👨🏻‍🎓<br/>
+#### I'm a high school student who dreams of becoming a front-end developer.👨🏻‍🎓
 #### My dream is to be a front-end developer, but I also like to do web design or study various things such as DBMS.<br/><br/>
 
 #### My current goal is to improve my skills and I will always study hard about what I am interested in.✍🏻<br/>
