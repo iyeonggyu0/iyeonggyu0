@@ -22,14 +22,14 @@ My current goal is to improve my skills and I will always study hard about what 
 
 ##### Library :
 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white">
-<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
-<img src="https://img.shields.io/badge/node forge-A52?style=flat-square">
-<img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=white">
-<img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=white">
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white">
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux_Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white)
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white)
+![node-forge](https://img.shields.io/badge/node_forge-A52?style=flat-square)
+![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=white)
+![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white)
 
 ###### Etc :
 
