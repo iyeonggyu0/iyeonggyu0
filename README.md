@@ -33,11 +33,11 @@ My current goal is to improve my skills and I will always study hard about what 
 
 ###### Etc :
 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/iyeonggyu0@gmail.com-EA4335?style=social&logo=gmail">
+![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![VScode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![gmail](https://img.shields.io/badge/iyeonggyu0@gmail.com-EA4335?style=social&logo=gmail)
