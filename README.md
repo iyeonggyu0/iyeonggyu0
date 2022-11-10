@@ -29,6 +29,7 @@ My current goal is to improve my skills and I will always study hard about what 
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=white)
 ![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white)
 
 ###### Etc :
