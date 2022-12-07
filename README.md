@@ -45,7 +45,3 @@ My current goal is to improve my skills and I will always study hard about what 
 
 
 <br><br>
------------- 
-
-
-[![iyeonggyu0's_commit_graph](https://activity-graph.herokuapp.com/graph?username=iyeonggyu0&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
